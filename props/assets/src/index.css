@@ -1,0 +1,13 @@
+.student{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    padding:10px;
+    border: 2px solid red;
+
+    margin: 20px ;
+    
+  }
+
+  .student p{
+    margin:0; 
+  }
