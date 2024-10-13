@@ -1,0 +1,19 @@
+.welcome{
+  font-size: 2.4em;
+  background-color: rgb(39, 37, 37);
+  color: bisque;
+  padding:10px;
+  border-radius: 5px;
+  margin:0;
+
+}
+
+
+.login{
+  font-size: 2.4em;
+  background-color: rgb(218, 218, 218);
+  color: red;
+  padding:10px;
+  border-radius: 5px;
+  margin:0;
+}
